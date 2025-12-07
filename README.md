@@ -23,14 +23,3 @@
 </div>
 
 ###
-
-<h2 align="center">Estatísticas do GitHub</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lvpcdev&show_icons=true&theme=dark&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub de lvpcdev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvpcdev&layout=compact&theme=dark&hide_border=true&locale=pt-br" height="150" alt="Linguagens Mais Usadas por lvpcdev" />
-</div>
-
-###
